@@ -1,0 +1,23 @@
+{
+  "docs": {
+    "Getting Started": [
+      "introduction",
+      "quickstart",
+      "configuration",
+      "tasks",
+      "logging",
+      "deploying",
+      "analysis"
+    ],
+    "Cookbook": [
+      "electron",
+      "s3"
+    ]
+  },
+  "docs-other": {
+    "First Category": [
+      "doc4",
+      "doc5"
+    ]
+  }
+}
