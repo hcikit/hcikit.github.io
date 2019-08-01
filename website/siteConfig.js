@@ -39,6 +39,8 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     { doc: "quickstart", label: "Quickstart" },
+    { href: "https://hcikit.github.io/api", label: "API" },
+
     { href: "https://github.com/hcikit/hcikit", label: "GitHub" }
   ],
 
